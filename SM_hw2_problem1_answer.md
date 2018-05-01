@@ -132,7 +132,8 @@ deviation from theory(%)
 
 5 dice	
 
-Run the program for several times, and put the data to the excel to do the analysis (tired)
+***Run the program for several times, and put the data to the excel to do the analysis (tired QQ)
+***The program in problem2 is well written, the statistcs and analysis will be better.
 
 Sum	| number of events
 
