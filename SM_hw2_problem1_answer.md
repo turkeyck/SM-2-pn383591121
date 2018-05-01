@@ -127,9 +127,12 @@ deviation from theory(%)
 
 *******Problem1 (3)
 
+
 5 dice , each with 2 sides
 
 5 dice	
+
+Run the program for several times, and put the data to the excel to do the analysis (tired)
 
 Sum	| number of events
 
