@@ -2,7 +2,7 @@
 
 50 dice , each with 6 sides
 
-========================
+
 Number of sides =  6
 Number of dice =  50
 -----Simulation(S)-----
@@ -21,7 +21,7 @@ deviation from theory
 deviation from theory(%)
 13.714285714285715 1.956571428571411 0.983118322465544
 -----Analysis(E)-------
-========================
+
 
 
 
@@ -29,7 +29,7 @@ deviation from theory(%)
 
 2 dice , each wih 10 sides
 
-========================
+
 Number of sides =  10
 Number of dice =  2
 -----Simulation(S)-----
@@ -48,11 +48,11 @@ deviation from theory
 deviation from theory(%)
 -27.27272727272727 -9.090909090909092 -4.446593573418704
 -----Analysis(E)-------
-========================
+
 
 10 dice, each with 20 sides
 
-========================
+
 Number of sides =  10
 Number of dice =  20
 -----Simulation(S)-----
@@ -71,7 +71,7 @@ deviation from theory
 deviation from theory(%)
 4.545454545454546 -10.151515151515135 -4.953091975184383
 -----Analysis(E)-------
-========================
+
 
 
 *******Problem1 (3)
